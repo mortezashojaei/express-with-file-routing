@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mortezashojaei/express-with-file-routing#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.4"
   }
 }
